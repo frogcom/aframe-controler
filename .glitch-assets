@@ -1,0 +1,10 @@
+{"name":"scene.gltf","date":"2023-01-20T17:00:35.677Z","url":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/scene.gltf","type":"","size":104639,"thumbnail":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/thumbnails%2Fscene.gltf","thumbnailWidth":210,"thumbnailHeight":210,"uuid":"pXKcZ0em5Kym96XD"}
+{"name":"body_baseColor.png","date":"2023-01-20T17:00:58.914Z","url":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/body_baseColor.png","type":"image/png","size":1636985,"imageWidth":2048,"imageHeight":2048,"thumbnail":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/thumbnails%2Fbody_baseColor.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"h0wd3eCKfu1uhtXN"}
+{"name":"body_emissive.png","date":"2023-01-20T17:01:08.532Z","url":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/body_emissive.png","type":"image/png","size":29468,"imageWidth":2048,"imageHeight":2048,"thumbnail":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/thumbnails%2Fbody_emissive.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"ynuQOdtsF2FCQmL4"}
+{"name":"body_metallicRoughness.png","date":"2023-01-20T17:01:16.245Z","url":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/body_metallicRoughness.png","type":"image/png","size":1433756,"imageWidth":2048,"imageHeight":2048,"thumbnail":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/thumbnails%2Fbody_metallicRoughness.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"SKCkiAkukWjdcyuE"}
+{"name":"body_normal.png","date":"2023-01-20T17:01:22.629Z","url":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/body_normal.png","type":"image/png","size":2156427,"imageWidth":2048,"imageHeight":2048,"thumbnail":"https://cdn.glitch.global/04c7c0ad-ef0d-4aa2-ac35-b3dc3c5d9fda/thumbnails%2Fbody_normal.png","thumbnailWidth":330,"thumbnailHeight":330,"uuid":"FXjD4X98zXsziq0v"}
+{"uuid":"pXKcZ0em5Kym96XD","deleted":true}
+{"uuid":"h0wd3eCKfu1uhtXN","deleted":true}
+{"uuid":"ynuQOdtsF2FCQmL4","deleted":true}
+{"uuid":"SKCkiAkukWjdcyuE","deleted":true}
+{"uuid":"FXjD4X98zXsziq0v","deleted":true}
