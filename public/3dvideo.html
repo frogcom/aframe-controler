@@ -2,21 +2,18 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>XR Demo</title>
     <script src="https://aframe.io/releases/1.4.1/aframe.min.js"></script>
-
 </head>
 
 <body>
     <a-scene inspector="" keyboard-shortcuts="" screenshot="" vr-mode-ui="" device-orientation-permission-ui="">
         <a-assets>
-
             <video id="video" loop="" crossorigin="anonymous" playsinline="" webkit-playsinline=""
-                src="assets/progressive.mp4">
-            </video>
+                src="assets/progressive.mp4"></video>
         </a-assets>
         <a-videosphere rotation="0 -90 0" src="#video" play-on-click="" material="" geometry="" scale="">
         </a-videosphere>
@@ -30,12 +27,18 @@
         </a-camera>
         <canvas class="a-canvas a-grab-cursor" data-aframe-canvas="true" data-engine="three.js r147" width="1007"
             height="151"></canvas>
-        <div class="a-loader-title" style="display: none;">360 Video</div>
-        <div class="a-enter-vr fullscreen" aframe-injected=""><button class="a-enter-vr-button"
-                title="Enter VR mode with a headset or fullscreen without" aframe-injected=""></button></div>
-        <div class="a-enter-ar a-hidden" aframe-injected=""><button class="a-enter-ar-button"
-                title="Enter AR mode with a headset or handheld device." aframe-injected=""></button></div>
-        <div class="a-orientation-modal a-hidden" aframe-injected=""><button aframe-injected="">Exit VR</button></div>
+        <div class="a-loader-title" style="display: none">360 Video</div>
+        <div class="a-enter-vr fullscreen" aframe-injected="">
+            <button class="a-enter-vr-button" title="Enter VR mode with a headset or fullscreen without"
+                aframe-injected=""></button>
+        </div>
+        <div class="a-enter-ar a-hidden" aframe-injected="">
+            <button class="a-enter-ar-button" title="Enter AR mode with a headset or handheld device."
+                aframe-injected=""></button>
+        </div>
+        <div class="a-orientation-modal a-hidden" aframe-injected="">
+            <button aframe-injected="">Exit VR</button>
+        </div>
         <a-entity light="" data-aframe-default-light="" aframe-injected=""></a-entity>
         <a-entity light="" position="" data-aframe-default-light="" aframe-injected=""></a-entity>
     </a-scene>

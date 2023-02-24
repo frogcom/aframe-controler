@@ -1,0 +1,4 @@
+de eerste sprint ging erg soeppel we haalde alle dingen die we gepland hadden voor die week. aleen in de 2e week splitste sander en ik op omdat het voor sander niet te doen was met dit project. daarom moest te planning aangepast worden tijdens de 2e sprint. en ik liep tegen veel problemen met de movement controls in vr. en de buttons om de omgeving te veranderen want het wou de imput van de button click niet pakken. 
+de volgende keer zou ik de lat iets minder hoog leggen. en hopen tegen niet te veel problemen aanlopen. omdat ik alles zelf moest uitzoekken hoe het werkt met aframe. 
+de planning was om de eerste week assets te zoekken een omgeving te maken en wat keyboard controls en de websocket werkend maken. 
+de 2e week waren de vr controls en de omgeving change. aleen die ging niet heel goed. en zijn dus ook niet af gekomen

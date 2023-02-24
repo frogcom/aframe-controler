@@ -1,59 +1,69 @@
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital@0;1&display=swap");
 
-*{user-select: none;}
-
-body{
-    font-family: 'Open Sans', sans-serif;
-}
-.movebutton{
-    position:absolute;
-    border:1px solid white;
-    background-color: gray;
-    color: black;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
-    width: 20px;
-    height: 20px;
-    font-size:10px;
-    line-height: 20px;
-    text-align: center;
-    box-sizing: border-box;
-    
-}
-.movebutton:hover{
-    background-color: lightgray; 
-    color: darkgray; 
-    box-shadow: 0 0 10px rgba(0,0,0,1);  
+* {
+  user-select: none;
 }
 
-#user-id{
-    position:absolute;
-    right:10px;
-    top:10px;
+body {
+  font-family: "Open Sans", sans-serif;
 }
-#position{
-    position:absolute;
-    right:10px;
-    top:40px;
+.movebutton {
+  position: absolute;
+  border: 1px solid white;
+  background-color: gray;
+  color: black;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+  width: 20px;
+  height: 20px;
+  font-size: 10px;
+  line-height: 20px;
+  text-align: center;
+  box-sizing: border-box;
+}
+.movebutton:hover {
+  background-color: lightgray;
+  color: darkgray;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 1);
+}
+
+#user-id {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+#position {
+  position: absolute;
+  right: 10px;
+  top: 40px;
 }
 
 #playAudio {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    translate: -50% -50%;
-    height: 200px;
-    width: 400px;
-    color: white;
-    background-color: red;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  translate: -50% -50%;
+  height: 200px;
+  width: 400px;
+  color: white;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
-#playAudio:hover{
-    background-color: rgb(139, 0, 0);
+#playAudio:hover {
+  background-color: rgb(139, 0, 0);
 }
 
 .hide {
-    display: none;
+  display: none;
+}
+#changething {
+  position: absolute;
+  height: 100px;
+  width: 100px;
+  background-color: hotpink;
+}
+#changething:hover {
+  background-color: blue;
 }
